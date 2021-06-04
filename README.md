@@ -1,2 +1,3 @@
-# Python
-First assignment of pattern programming in python
+# Machine learning and deep learning 
+Summer internship program in REGex software Service
+
